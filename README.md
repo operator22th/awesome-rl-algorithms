@@ -8,5 +8,7 @@
 ### TDMPC
 - arXiv 2025.02, TD-M(PC)2: Improving Temporal Difference MPC Through Policy Constraint. [Website](https://darthutopian.github.io/tdmpc_square/).
 - ICLR 2025, Bootstrapped Model Predictive Control. [Paper](https://openreview.net/pdf?id=i7jAYFYDcM).
-## New framework
+## Generalist RL
 - arXiv 2024.12, RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning. [Website](https://generalist-distillation.github.io/). [Paper](https://arxiv.org/abs/2412.09858).
+## Offline RL
+- ICML 2023, Unleashing the Power of Pre-trained Language Models for Offline Reinforcement Learning. [Paper](https://arxiv.org/abs/2310.20587). [Code](https://github.com/srzer/LaMo-2023).
