@@ -1,5 +1,6 @@
 # awesome-rl-algorithms
 ## Policy iteration
+- ICLR 2019, CEM-RL: Combining evolutionary and gradient-based methods for policy search. [Paper](https://arxiv.org/abs/1810.01222).
 ## Value iteration
 - arXiv 2025.02, Value-Based Deep RL Scales Predictably. [Paper](https://arxiv.org/abs/2502.04327).
 ### SAC
