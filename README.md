@@ -2,6 +2,7 @@
 ## Policy iteration
 - ICLR 2019, CEM-RL: Combining evolutionary and gradient-based methods for policy search. [Paper](https://arxiv.org/abs/1810.01222).
 ## Value iteration
+- ICLR 2025, Towards General-Purpose Model-Free Reinforcement Learning. [Paper](https://arxiv.org/abs/2501.16142).Model-based representations for Q-learning.
 - arXiv 2025.02, Value-Based Deep RL Scales Predictably. [Paper](https://arxiv.org/abs/2502.04327).
 ### SAC
 - ICML 2024 (Oral), ACE : Off-Policy Actor-Critic with Causality-Aware Entropy Regularization. [Paper](https://arxiv.org/abs/2402.14528).
