@@ -1,7 +1,7 @@
 # awesome-rl-algorithms
-## Policy iteration
+## Policy Optimization
 - ICLR 2019, CEM-RL: Combining evolutionary and gradient-based methods for policy search. [Paper](https://arxiv.org/abs/1810.01222).
-## Value iteration
+## Dynamic Programming
 ### SAC line of work
 - ICML 2024 (Oral), ACE : Off-Policy Actor-Critic with Causality-Aware Entropy Regularization. [Paper](https://arxiv.org/abs/2402.14528).
 ### Others
