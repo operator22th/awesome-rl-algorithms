@@ -16,3 +16,5 @@
 - arXiv 2024.12, RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning. [Website](https://generalist-distillation.github.io/). [Paper](https://arxiv.org/abs/2412.09858).
 ## Offline RL
 - ICML 2023, Unleashing the Power of Pre-trained Language Models for Offline Reinforcement Learning. [Paper](https://arxiv.org/abs/2310.20587). [Code](https://github.com/srzer/LaMo-2023).
+## Application
+- arXiv 2025.01, DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning. [Paper](https://arxiv.org/abs/2501.12948). [Code](https://github.com/huggingface/open-r1).
